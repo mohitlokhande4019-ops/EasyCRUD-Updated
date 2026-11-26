@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: backend
-      image: mohitl07/backend:latest
+      image: mohitl07/easycrud2-jenkins:backend
       ports:
         - containerPort: 80
